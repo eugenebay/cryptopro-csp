@@ -1,0 +1,10 @@
+build/
+config/certificates/*
+!config/certificates/.gitkeep
+*.pfx
+*.cer
+*.crt
+*.pem
+*.txt
+*.zip
+*.rar
